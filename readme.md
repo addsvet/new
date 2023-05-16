@@ -9,3 +9,5 @@ git status
 git commit -m 'init'
 git branch development
 git chekout development
+git merge development
+git status
